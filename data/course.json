@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Photography"
+    ]
+  ],
+  "legacy_uid": "0ec57be0-ff3e-9e6e-95ae-990046b95143",
+  "instructors": {
+    "content": [
+      "d8299b05-857e-999c-0d28-a451f8466334"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6762cff4-3d83-f768-1690-d1525fbe2ef2",
+    "website": "4-341-introduction-to-photography-fall-2002"
+  },
+  "course_title": "Introduction to Photography",
+  "course_description": "This course combines practical instruction, field trips, group discussions, and individual reviews intended to foster a critical awareness of how images in our culture are produced and constructed. Student-initiated term projects are at the core of this exploration of the relationship of image to language and issues of interpretation and personal history. Besides, this course also offers practical instruction in basic black and white techniques, digital imaging, fundamentals of camera operation, lighting, film exposure, development and printing. Course provides opportunity for continued exploration.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.341",
+  "course_image_thumbnail": {
+    "content": "0276862b-b445-3f43-1591-07d91685d9a3",
+    "website": "4-341-introduction-to-photography-fall-2002"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "80760cf9-fc10-4cd5-a494-880d0d3bccb6",
+  "site_short_id": "4.341-fall-2002",
+  "site_url_path": "courses/4-341-introduction-to-photography-fall-2002",
+  "title": "Course Metadata"
+}
