@@ -4,6 +4,8 @@ description: Photo of a young man saluting
 file: /courses/4-341-introduction-to-photography-fall-2002/51b748f61af81e7c69dd4910bc703fce_lafferty6.JPG
 file_size: 18788
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
